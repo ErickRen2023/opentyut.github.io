@@ -1,7 +1,7 @@
 # 大一下学期
 
 ::: warning 🚧 施工中
-这一页的内容还在编写中，欢迎 [参与贡献](https://github.com/MaybeJustLikeThis/openTyut)！
+这一页的内容还在编写中，欢迎 [参与贡献](https://github.com/opentyut/opentyut)！
 :::
 
 ## 课程概览
@@ -16,4 +16,4 @@
 
 ## 待补充
 
-如果你想为这个页面贡献内容，请查看 [贡献指南](https://github.com/MaybeJustLikeThis/openTyut)。
+如果你想为这个页面贡献内容，请查看 [贡献指南](https://github.com/opentyut/opentyut)。

@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'openTyut',
   description: '开放式太原理工大学计算机学习资源站',
   lang: 'zh-CN',
-  base: '/openTyut/',
+  base: '/opentyut/',
 
   themeConfig: {
     logo: '/logo.svg',
@@ -39,7 +39,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/MaybeJustLikeThis/openTyut' }
+      { icon: 'github', link: 'https://github.com/opentyut/opentyut' }
     ],
 
     search: {

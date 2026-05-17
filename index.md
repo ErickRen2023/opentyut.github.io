@@ -11,7 +11,7 @@ hero:
       link: /guide/
     - theme: alt
       text: GitHub
-      link: https://github.com/MaybeJustLikeThis/openTyut
+      link: https://github.com/opentyut/opentyut
   image:
     src: /logo.svg
     alt: openTyut
