@@ -5,6 +5,7 @@ export default defineConfig({
   description: '开放式太原理工大学计算机学习资源站',
   lang: 'zh-CN',
   base: '/',
+  ignoreDeadLinks: true,
 
   themeConfig: {
     logo: '/logo.svg',
