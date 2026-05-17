@@ -100,12 +100,14 @@ export default defineConfig({
         {
           text: '升学指南',
           items: [
+            { text: '概览', link: '/admission/' },
             { text: '保研', link: '/admission/exemption_of_examinations' },
             { text: '考研', link: '/admission/postgraduate_qualifying_examination' },
             { text: '留学', link: '/admission/study-abroad' },
           ]
         }
-      ],
+      ]
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/opentyut/opentyut' }
