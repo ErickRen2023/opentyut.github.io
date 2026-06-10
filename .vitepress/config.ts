@@ -136,6 +136,7 @@ export default defineConfig({
           items: [
             { text: '欢迎来到太原理工大学', link: '/survival/li-zhi/welcome' },
             { text: '你想要做什么', link: '/survival/li-zhi/what-to-do' },
+            { text: '为什么选择计算机', link: '/survival/li-zhi/why-cs' },
             {
               text: '失败的思维方式',
               collapsed: true,
