@@ -23,7 +23,7 @@ function tokenize(text: string, _fieldName?: string): string[] {
 
 export default defineConfig({
   title: 'OpenTYUT',
-  description: '太原理工大学计算机学习资源站，由在校生与毕业学长共同维护。提供全栈开发、后端开发、人工智能等方向学习路线、课程笔记、升学经验、实习就业指南和外部资源聚合，帮TYUTer少走弯路。',
+  description: '太原理工大学计算机学习资源站，由在校生与毕业学长共同维护。提供软件开发、人工智能等方向学习路线、课程笔记、升学经验、实习就业指南和外部资源聚合，帮TYUTer少走弯路。',
   lang: 'zh-CN',
   base: '/',
   ignoreDeadLinks: true,
@@ -87,15 +87,10 @@ export default defineConfig({
     sidebar: {
       '/guide/': [
         {
-          text: '全栈开发',
+          text: '软件开发',
           items: [
-            { text: '施工中', link: '/guide/full-stack' },
-          ]
-        },
-        {
-          text: '后端开发',
-          items: [
-            { text: '施工中', link: '/guide/backend' },
+            { text: '概览', link: '/guide/software-development/' },
+            { text: 'AI时代的软件工程', link: '/guide/software-development/software_engineering_with_AI' },
           ]
         },
         {
